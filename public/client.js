@@ -159,4 +159,4 @@ setInterval(changeText, 3000);
 
 const head3 = document.querySelector("h3");
 
-head3.innerHTML = "Enter your name to chat:";
+head3.innerHTML = "Online:";
