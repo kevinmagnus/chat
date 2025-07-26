@@ -66,7 +66,7 @@ function joinChat() {
     const messages = document.getElementById('messages');
     messages.textContent = 'Disconnected from server';
     document.getElementById('join-section').style.display = 'block';
-    document.getElementById('chat-section').style.display = 'none';
+    document.getElementById('chat-section').style.display = 'block';
   };
 }
 
