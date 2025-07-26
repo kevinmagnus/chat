@@ -11,6 +11,7 @@ body {
 
 #join-section, #chat-section {
   margin-bottom: 20px;
+  color: orange;
 }
 
 input, button {
@@ -30,7 +31,8 @@ input, button {
   border: 1px solid #ddd;
   padding: 10px;
   margin-bottom: 10px;
-  background: #f9f9f9;
+  background: black;
+  color: orange;
 }
 
 .message {
@@ -131,7 +133,7 @@ position: left;
 
 
 #head-1 {
-    color: white;
+    color: turquoise;
 }
 
  
@@ -167,7 +169,8 @@ position: left;
   border: 1px solid #ddd;
   padding: 10px;
   margin-bottom: 10px;
-  background: #f9f9f9;
+  background: black;
+  color: orange;
 }
 
 .message {
